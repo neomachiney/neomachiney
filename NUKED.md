@@ -1,0 +1,2 @@
+- First account got nuked. Second one I deleted. This is third one, Neomachine. 
+- My codes are outdated and I am on break. Will be continuing around 2023 or 2024 
