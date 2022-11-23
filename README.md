@@ -4,15 +4,14 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neomachiney&show_icons=true&theme=github_dark)
 
 ### Real Accounts:
-* **Discord**: machineyadav#7097 [Do Anything](https://discord.gg/ejcswge)
-* **Facebook**: Nope 😄
-* **Twitter**: [machinexa2](https://twitter.com/machinexa2)
+* **Discord**: ToBeUpdated [Do Anything](https://discord.gg/ejcswge)
+* **Twitter**: [ToBeUpdated]()
 
 ### Support 
-If you wanted to support me for the tools I create, [check this out](https://github.com/neomachiney/neomachiney/blob/master/SUPPORT.md)
+[Support](https://github.com/neomachiney/neomachiney/blob/master/SUPPORT.md)
 
-### Old Account
-[Old Account](https://github.com/neomachiney/neomachiney/blob/master/NUKED.md).
+### Account Issue
+[Issue](https://github.com/neomachiney/neomachiney/blob/master/NUKED.md).
 
 ### Progress
 ToBeUpdated
